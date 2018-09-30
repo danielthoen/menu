@@ -14,6 +14,12 @@ margin-right: 0 auto;
   margin-right: 3px;
 }
 
+div{
+    margin:0 auto;
+    width:60%; 
+
+}
+
 #midden {
   margin-top: 0px;
   margin-bottom: 0px;
